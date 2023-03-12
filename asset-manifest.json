@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webindianlion/react_js_login/static/css/main.f21f30a6.css",
+    "main.js": "/webindianlion/react_js_login/static/js/main.fcf923d8.js",
+    "static/js/787.b32fc054.chunk.js": "/webindianlion/react_js_login/static/js/787.b32fc054.chunk.js",
+    "static/media/logo.svg": "/webindianlion/react_js_login/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/webindianlion/react_js_login/index.html",
+    "main.f21f30a6.css.map": "/webindianlion/react_js_login/static/css/main.f21f30a6.css.map",
+    "main.fcf923d8.js.map": "/webindianlion/react_js_login/static/js/main.fcf923d8.js.map",
+    "787.b32fc054.chunk.js.map": "/webindianlion/react_js_login/static/js/787.b32fc054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21f30a6.css",
+    "static/js/main.fcf923d8.js"
+  ]
+}
