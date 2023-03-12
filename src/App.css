@@ -6,6 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
+.fakestore button{
+  width: 150px;
+  margin: auto;
+}
+.fakestore .img-cont {
+  min-height: 150px;
+  max-height: 150px;
+}
+.fakestore .ttl { min-height: 100px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
